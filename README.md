@@ -13,7 +13,7 @@ As the name suggests, this plugin simply inserts the following parts into Roblox
 
 Note: All parts will insert as sized 2x2 unless changed in the FemtrsPartInserterOpenSource.lua code.
 
-## Where do i access the code?
+## Where do i access the code or rbxmx file?
 You can access the code in the Releases tab or under the main branch.
   
 ## How do i insert the file localy on my device?
